@@ -31,3 +31,16 @@
     transform: rotate(360deg);
   }
 }
+
+.rowItem {
+  display: flex;
+  flex-diraction: row;
+  justify-content: center;
+  gap: 0px;
+
+  width: 100%;
+}
+
+.app1 {
+  padding-top: 20px;
+}
